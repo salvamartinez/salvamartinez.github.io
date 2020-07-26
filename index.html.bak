@@ -27,6 +27,7 @@
         <li class="menu"><a href="index.html">Home</a></li>
         <li class="menu"><a href="publications.html">Publications</a></li>
         <li class="menu"><a href="teaching.html">Teaching</a></li>
+        <li class="menu"><a href="projects.html">Projects</a></li>
       </ul>
       <h2>About me</h2>
       <div id="contact">
@@ -35,8 +36,8 @@
         <div class="col-md-11 bottomBuffer info-detail leftBuffer clearfix">
           <meta content="text/html; charset=utf-8" http-equiv="content-type" />
           <span>IMT Atlantique Bretagne-Pays de la Loire - <br />
-            Campus de Brest</span><span>:  </span><span>Brest</span><span>,
-          </span><span>Bretagne</span><span>, </span><span>FR</span></div>
+            Campus de Brest</span><span>:  </span><span>Brest</span><span>, </span><span>Bretagne</span><span>,
+          </span><span>FR</span></div>
         <p></p>
         <p> <strong>Email</strong><br />
           salvador.martinez AT imt-atlantique.fr</p>

@@ -1,6 +1,6 @@
 <html>
   <head>
-    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
     <link href="salvaFiles/stylesheet.css" type="text/css" rel="stylesheet">
     <title>Teaching</title>
     <script src="salvaFiles/ga.js" async="" type="text/javascript"></script>
@@ -24,6 +24,7 @@
         <li class="menu"><a href="index.html">Home</a></li>
         <li class="menu"><a href="publications.html">Publications</a></li>
         <li class="menu"><a href="teaching.html">Teaching</a></li>
+        <li class="menu"><a href="projects.html">Projects</a></li>
       </ul>
       <h2>Teaching </h2>
       <p>I've been involved, with different degrees of responsibility, in a
@@ -43,5 +44,6 @@
         <li>OCL</li>
       </ul>
     </div>
+    
   </body>
 </html>

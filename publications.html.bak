@@ -25,12 +25,24 @@
         <li class="menu"><a href="index.html">Home</a></li>
         <li class="menu"><a href="publications.html">Publications</a></li>
         <li class="menu"><a href="teaching.html">Teaching</a></li>
-        <li class="menu"><a href="projects.html">Projects</a></li>
       </ul>
       <h2>Publications</h2>
       <h3>Journal Publications </h3>
       <p></p>
       <ol>
+        <li><strong>Multi-Level Modeling with Openflexo/FML A Contribution to the Multi-Level Process Challenge.</strong>. 
+          <i>Sylvain Guérin, Joël Champeau, Jean-Christophe Bach, Antoine Beugnard, Fabien Dagnat, Salvador Martínez Perez. Enterp. Model. Inf. Syst. Archit. Int. J. Concept. Model.</i> (2022): volume 17 <a href="https://doi.org/10.18417/emisa.17.9">publisher site</a><strong></strong>
+        </li>
+        <li><strong>A domain-specific language for the specification of UCON policies.</strong>. 
+          <i>Antonia M. Reina Quintero, Salvador Martínez Perez, Ángel Jesús Varela-Vaca, María Teresa Gómez López, Jordi Cabot. Journal of Information Security and Applications</i> (2022): volume 64 pages 103006 <a href="https://doi.org/10.1016/j.jisa.2021.103006">publisher site</a><strong></strong>
+        </li>
+        <li><strong>Efficient model similarity estimation with robust hashing</strong>. Martínez, S., Gérard S,
+          Cabot, J. Software and Systems Modeling, 2021 Volume 21, pages 337--361
+          <a href="https://doi.org/10.1007/s10270-021-00915-9">publisher site</a></li>
+        <li><strong>PAMELA: An annotation-based Java modeling framework</strong>. 
+          <i>Sylvain Guérin, Guillaume Polet, Caine Silva, Joël Champeau, Jean-Christophe Bach, Salvador Martínez, Fabien Dagnat, Antoine Beugnard. Science of Computer Programming</i> (2021): 102668  <br>
+          <strong></strong>
+        </li>
         <li><strong>Efficient plagiarism detection for software modeling
             assignments</strong>. <i>Martínez, S., Wimmer M., Cabot J. Computer
             Science &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Education</i> (2020): 1-29.<br>
@@ -64,13 +76,14 @@
       </ol>
       <h3>International Conferences </h3>
       <ol>
+        <li><strong>An analysis of software design understanding & motivation of engineering students.</strong>. Jean-Christophe Bach, Antoine Beugnard, Jean-Loup Castaigne, Julien Mallet, Salvador Martínez Perez, Maria-Teresa Segarra. Models Educators Symposium. 2022.
+          <a href="https://hal.science/hal-03801001/document">paper</a></li>
         <li><a class="gsc_vcd_title_link" href="https://link.springer.com/chapter/10.1007/978-3-030-20618-5_12"
-            data-clk="hl=fr&amp;sa=T&amp;ei=cEodX_zDC5-Ty9YP0OmoyAk">
-            <meta http-equiv="content-type" content="text/html; charset=utf-8">
-          </a><strong>On the Need for Intellectual Property Protection in
-            Model-Driven Co-Engineering Processes.</strong> Martínez, S., Gérard
-          S, Cabot, J.<i> Enterprise, Business-Process and Information Systems
-            Modeling</i>. Springer, Cham, 2019. 169-177. <strong></strong></li>
+            data-clk="hl=fr&amp;sa=T&amp;ei=cEodX_zDC5-Ty9YP0OmoyAk"> </a><strong>On
+            the Need for Intellectual Property Protection in Model-Driven
+            Co-Engineering Processes.</strong> Martínez, S., Gérard S, Cabot, J.<i>
+            Enterprise, Business-Process and Information Systems Modeling</i>.
+          Springer, Cham, 2019. 169-177. <strong></strong></li>
         <li><strong>Robust Hashing for Models</strong>. Martínez, S., Gérard S,
           Cabot, J. Model-Driven Engineering Languages and Systems (MODELS’18).
           <a href="/papers/robust.pdf">paper</a></li>
